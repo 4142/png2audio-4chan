@@ -5,7 +5,6 @@
 // @description  4chan player for PNG files created with audio2png.
 // @match        *://boards.4chan.org/*
 // @grant        GM_xmlhttpRequest
-// @downloadURL  https://raw.githubusercontent.com/4142/png2audio-4chan/master/png2audio-4chan.js
 // ==/UserScript==
 
 (function (outer) {
