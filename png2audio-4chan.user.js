@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         png2audio-4chan
-// @version      1
+// @version      2
 // @namespace    png2audio-4chan
 // @description  4chan player for PNG files created with audio2png.
 // @match        *://boards.4chan.org/*
