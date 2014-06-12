@@ -1379,4 +1379,6 @@
 
     window.addEventListener("load", Main.Init);
 
+    window.addEventListener("unload", stopPNG);
+
 })();
